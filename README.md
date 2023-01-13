@@ -28,22 +28,22 @@ Libraries - numpy, matplotlib, tensorflow, cv2
 1. Importing the required libraries. 
 2. Load and read the data images 
 3. Data Visualization 
- * Count plot
+ - Count plot
 4. Data pre-processing 
- * Create train and validation data 
- * Normalize the data 
- * Reshape the data images 
+ - Create train and validation data 
+ - Normalize the data 
+ - Reshape the data images 
 5. Data augmentation 
- * Using ImageDataGenerator 
+ - Using ImageDataGenerator 
 6. Model Training 
- * Create a sequential model 
- * Add convolution, maxpool,dropout layers  
- * Add the softmax activation function (As this is a multiclass classification problem) 
- * Pass the optimizer parameter 
- * Compile the model  
- * Fit and train the model 
- * Check for the predictions 
- * Save the model in h5 format. 
+ - Create a sequential model 
+ - Add convolution, maxpool,dropout layers  
+ - Add the softmax activation function (As this is a multiclass classification problem) 
+ - Pass the optimizer parameter 
+ - Compile the model  
+ - Fit and train the model 
+ - Check for the predictions 
+ - Save the model in h5 format. 
 7. Inferencing the model 
- * Prediction on the test data 
+ - Prediction on the test data 
 
