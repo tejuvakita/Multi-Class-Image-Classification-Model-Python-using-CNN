@@ -46,4 +46,6 @@ Libraries - numpy, matplotlib, tensorflow, cv2
  - Save the model in h5 format. 
 7. Inferencing the model 
  - Prediction on the test data 
+ 
+<img width="260" alt="Model" src="https://user-images.githubusercontent.com/68806600/212334891-e5745c30-cc7c-495a-826c-e1f3b83b9b2c.PNG">
 
